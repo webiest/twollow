@@ -1,0 +1,8 @@
+cron:
+- description: follow
+  url: /
+  schedule: every 20 minutes
+
+- description: unfollow
+  url: /unfollow/
+  schedule: every 24 hours
