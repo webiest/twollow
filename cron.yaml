@@ -5,4 +5,4 @@ cron:
 
 - description: unfollow
   url: /unfollow/
-  schedule: every 24 hours
+  schedule: every 2 hours
